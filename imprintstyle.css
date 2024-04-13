@@ -1,0 +1,86 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+html, body
+{
+    height: 100%;
+}
+
+body
+{
+    background-color: lightblue;
+    background-image: url(https://mh-2-bildagentur.panthermedia.net/media/media_detail/0012000000/12997000/~leerer-karierter-hintergrund_12997000_detail.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+
+.heading
+{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 0px;   bottom: 0px;    right: 0px;     left: 0px; 
+}
+
+.title
+{
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 60pt;
+    font-family: fantasy;
+}
+
+.title2
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
+
+.name
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
+
+.Adresse
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
+
+.plz
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
+
+.land
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
