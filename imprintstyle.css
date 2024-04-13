@@ -84,3 +84,13 @@ body
     font-size: 14pt;
     font-family: serif;
 }
+
+.mail
+{
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: black;
+    font-size: 14pt;
+    font-family: serif;
+}
