@@ -1,0 +1,34 @@
+.youtubeprofil {
+    transition: 1000ms;
+}
+
+.youtubeprofil:hover {
+    transform: scale(1.5);
+    transition: 1000ms;
+}
+
+.dropdown-menu {
+    transition: 1000ms;
+}
+
+.paypal {
+    background-color: blue;
+    color: white;
+    border: 3px;
+    margin: 50px 2px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: 1000ms;
+}
+
+.paypal:hover {
+    transform: scale(1.5);
+    transition: 1000ms;
+}
+
+.partnermarg {
+    margin-top: 30px;
+}
